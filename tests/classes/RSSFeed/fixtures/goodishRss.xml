@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, DHI Group Inc. All Rights Reserved. Slashdot is a DHI service</dc:rights>
+<dc:date>2015-05-19T21:40:20+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/19/2033201/software-glitch-caused-crash-of-airbus-a400m-military-transport-aircraft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/05/19/192200/bitcoin-arrives-at-nyse-startup-aims-to-tackle-micropayments-and-easy-mining?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://entertainment.slashdot.org/story/15/05/19/1817237/marvels-female-superheroes-are-gradually-becoming-more-super?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/05/19/1811211/learn-about-the-technology-education-and-literacy-in-schools-program-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://apple.slashdot.org/story/15/05/19/1714202/why-apple-ditched-its-plan-to-build-a-television?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://ask.slashdot.org/story/15/05/19/1455225/ask-slashdot-what-tech-skills-do-hs-students-need-to-know-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/05/19/1631227/yubikey-neo-teardown-and-durability-review?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/05/19/1553203/amd-details-high-bandwidth-memory-hbm-dram-pushes-over-100gbs-per-stack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/19/1452251/microwave-comms-betwen-population-centers-could-be-key-to-easing-internet-bottlenecks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/05/19/1422241/trojanized-info-stealing-putty-version-lurking-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://politics.slashdot.org/story/15/05/19/1333230/battle-to-regulate-ridesharing-moves-through-states?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/19/1243255/swedish-court-orders-seizure-of-pirate-bay-domains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://politics.slashdot.org/story/15/05/19/0318259/the-demographic-future-of-americas-political-parties?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/05/19/0317238/microsoft-to-teachers-using-pens-and-paper-not-fair-to-students?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/19/0225222/european-internet-users-urged-to-protect-themselves-against-facebook-tracking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://tech.slashdot.org/story/15/05/19/2033201/software-glitch-caused-crash-of-airbus-a400m-military-transport-aircraft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Software Glitch Caused Crash of Airbus A400M Military Transport Aircraft</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/lNHzYZkWfQw/software-glitch-caused-crash-of-airbus-a400m-military-transport-aircraft</link>
+<description>An anonymous reader writes: A software glitch caused the crash of an Airbus A400M military transport aircraft, claims German newspaper Der Spiegel (Google translation). The accident, which happened in Seville on the vehicle's first production test flight on 9 May, killed four crew members. Airbus is investigating the system controlling the aircraft's engines. The early suspicions are that it was an installation problem, rather than a design problem.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Software+Glitch+Caused+Crash+of+Airbus+A400M+Military+Transport+Aircraft%3A+http%3A%2F%2Fbit.ly%2F1AdDBVn"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F19%2F2033201%2Fsoftware-glitch-caused-crash-of-airbus-a400m-military-transport-aircraft%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/19/2033201/software-glitch-caused-crash-of-airbus-a400m-military-transport-aircraft?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/19/2033201/software-glitch-caused-crash-of-airbus-a400m-military-transport-aircraft?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7437755&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/lNHzYZkWfQw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-19T21:20:00+00:00</dc:date>
+<dc:subject>software</dc:subject>
+<slash:department>complexity-breeds-failures</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>13</slash:comments>
+<slash:hit_parade>13,11,5,5,1,0,0</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/19/2033201/software-glitch-caused-crash-of-airbus-a400m-military-transport-aircraft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/05/19/192200/bitcoin-arrives-at-nyse-startup-aims-to-tackle-micropayments-and-easy-mining?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Bitcoin Arrives At NYSE, Startup Aims To Tackle Micropayments and Easy Mining</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cl6nBhuMLmY/bitcoin-arrives-at-nyse-startup-aims-to-tackle-micropayments-and-easy-mining</link>
+<description>itwbennett writes: A startup company whose backers include Qualcomm, Cisco Systems and a former ARM executive, and which reportedly has raised "well north of $116 million" has just come out of stealth mode. The first thing to know about the company, which calls itself 21, is that it has designed an embedded chip for bitcoin mining. The details aren't entirely clear, but the plan seems to be to get its bitcoin mining chip embedded into millions of smartphones and tablets, and for those devices to work collectively to mine new currency. But the company has larger ambitions: It sees its chip as a way to solve the problem of micro payments and it could also be used to pay for the chips themselves.
+This was followed by news that the New York Stock Exchange will begin tracking and showing Bitcoin's dollar value. Reader Lashdots adds a link to an article describing how Silicon Valley finally joined the rush to invest in Bitcoin-related businesses.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Bitcoin+Arrives+At+NYSE%2C+Startup+Aims+To+Tackle+Micropayments+and+Easy+Mining%3A+http%3A%2F%2Fbit.ly%2F1Fmudxv"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F05%2F19%2F192200%2Fbitcoin-arrives-at-nyse-startup-aims-to-tackle-micropayments-and-easy-mining%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/05/19/192200/bitcoin-arrives-at-nyse-startup-aims-to-tackle-micropayments-and-easy-mining?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/05/19/192200/bitcoin-arrives-at-nyse-startup-aims-to-tackle-micropayments-and-easy-mining?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7437495&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/cl6nBhuMLmY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-19T20:37:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>go-big-or-go-home</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>23</slash:comments>
+<slash:hit_parade>23,23,12,10,2,0,0</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/05/19/192200/bitcoin-arrives-at-nyse-startup-aims-to-tackle-micropayments-and-easy-mining?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://entertainment.slashdot.org/story/15/05/19/1817237/marvels-female-superheroes-are-gradually-becoming-more-super?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Marvel's Female Superheroes Are Gradually Becoming More Super</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/2k20-vOuMWs/marvels-female-superheroes-are-gradually-becoming-more-super</link>
+<description>New submitter RhubarbPye writes: A new study shows an increasing trend in the power and significance of female superhero characters in the Marvel comic book universe. Several criteria were used to examine the trend, including cover art, dialog, and the actual superpowers. Over 200 individual comic books from Marvel's 50+ year history were compared for the study. What's of particular interest is the study's author is a 17-year-old high school student from Ohio.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Marvel's+Female+Superheroes+Are+Gradually+Becoming+More+Super%3A+http%3A%2F%2Fbit.ly%2F1Baj7Yy"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F15%2F05%2F19%2F1817237%2Fmarvels-female-superheroes-are-gradually-becoming-more-super%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://entertainment.slashdot.org/story/15/05/19/1817237/marvels-female-superheroes-are-gradually-becoming-more-super?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://entertainment.slashdot.org/story/15/05/19/1817237/marvels-female-superheroes-are-gradually-becoming-more-super?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7437361&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/2k20-vOuMWs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-19T19:55:00+00:00</dc:date>
+<dc:subject>entertainment</dc:subject>
+<slash:department>superduper-heroines</slash:department>
+<slash:section>entertainment</slash:section>
+<slash:comments>110</slash:comments>
+<slash:hit_parade>110,107,54,44,12,8,6</slash:hit_parade>
+<feedburner:origLink>http://entertainment.slashdot.org/story/15/05/19/1817237/marvels-female-superheroes-are-gradually-becoming-more-super?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/05/19/1811211/learn-about-the-technology-education-and-literacy-in-schools-program-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Learn About The Technology Education And Literacy in Schools Program (Video)</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fewEGjfAzOs/learn-about-the-technology-education-and-literacy-in-schools-program-video</link>
+<description>The Technology Education And Literacy in Schools program (TEALS to its friends) started with one volunteer, a Berkeley CS grad named Kevin Wang who taught high school for a while, then went to Microsoft for a much higher salary than he got from teaching. But before long, he was getting up early and teaching a first period computer science class at a Seattle-area high school that was (sort of) on his way to work. Then some other local high schools came to him and wanted similar programs. Kevin's a smart guy, but not smart enough to be in four places at once, so he recruited coworkers to join him as volunteer computer science educators. Today (as this is being written) TEALS is in 130 high schools and has 475 volunteers in multiple states. Kevin works full time on the program, sponsored by Microsoft, but 78% of the volunteers now come from other companies.
+ 
+TEALS has stuck with Kevin's original 1st period (usually somewhere between 7:30 and 9:30) schedule not just because it's convenient for many of the volunteers, but because (contrary to teen-nerd stereotypes) 60% of their students are in after-school sports and 20% are in band. The program is growing steadily and they're looking for more volunteers. We'll have another video with Kevin tomorrow, and that's when the transcript of both videos will appear. Meanwhile, you can read the TEALS FAQ and see how you might fit in with this group or one of many other similar ones either as a volunteer, as a student or as a teacher or school administrator interested in giving your students at least a basic grounding in Computer Science. (Coincidentally, today's 'Ask Slashdot' is about tech skills for HS students -- an unintentional but excellent tie-in.)&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Learn+About+The+Technology+Education+And+Literacy+in+Schools+Program+(Video)%3A+http%3A%2F%2Fbit.ly%2F1AdjIxF"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F05%2F19%2F1811211%2Flearn-about-the-technology-education-and-literacy-in-schools-program-video%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/05/19/1811211/learn-about-the-technology-education-and-literacy-in-schools-program-video?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/05/19/1811211/learn-about-the-technology-education-and-literacy-in-schools-program-video?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7437331&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fewEGjfAzOs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Roblimo</dc:creator>
+<dc:date>2015-05-19T19:14:00+00:00</dc:date>
+<dc:subject>education</dc:subject>
+<slash:department>computer-science-for-the-high-school-masses</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>6</slash:comments>
+<slash:hit_parade>6,6,3,2,1,1,1</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/05/19/1811211/learn-about-the-technology-education-and-literacy-in-schools-program-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://apple.slashdot.org/story/15/05/19/1714202/why-apple-ditched-its-plan-to-build-a-television?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Why Apple Ditched Its Plan To Build a Television</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4DgFz3CLlbs/why-apple-ditched-its-plan-to-build-a-television</link>
+<description>Apple has been rumored to be developing their own line of HDTVs for years, but a new report from the Wall Street Journal (paywalled) says while those plans did exist, they've been abandoned. Apple began pondering the idea of jumping into the television market roughly a decade ago, as iTunes started hosting video content. The AppleTV made a foray into living rooms in 2007, and other devices reached the prototype stage. The company continued to do research and work on their ideas, but eventually gave up more than a year ago.
+Apple had searched for breakthrough features to justify building an Apple-branded television set, those people said. In addition to an ultra-high-definition display, Apple considered adding sensor-equipped cameras so viewers could make video calls through the set, they said. Ultimately, though, Apple executives didn't consider any of those features compelling enough to enter the highly competitive television market, led by Samsung Electronics Co. Apple typically likes to enter a new product area with innovative technology and easier-to-use software.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Why+Apple+Ditched+Its+Plan+To+Build+a+Television%3A+http%3A%2F%2Fbit.ly%2F1F06vF1"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fapple.slashdot.org%2Fstory%2F15%2F05%2F19%2F1714202%2Fwhy-apple-ditched-its-plan-to-build-a-television%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://apple.slashdot.org/story/15/05/19/1714202/why-apple-ditched-its-plan-to-build-a-television?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://apple.slashdot.org/story/15/05/19/1714202/why-apple-ditched-its-plan-to-build-a-television?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7437159&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4DgFz3CLlbs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-05-19T18:25:00+00:00</dc:date>
+<dc:subject>tv</dc:subject>
+<slash:department>team-shifted-to-smellovision-development</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>133</slash:comments>
+<slash:hit_parade>133,132,106,84,25,12,7</slash:hit_parade>
+<feedburner:origLink>http://apple.slashdot.org/story/15/05/19/1714202/why-apple-ditched-its-plan-to-build-a-television?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://ask.slashdot.org/story/15/05/19/1455225/ask-slashdot-what-tech-skills-do-hs-students-need-to-know-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: What Tech Skills Do HS Students Need To Know Now?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BFAZNB2A3U8/ask-slashdot-what-tech-skills-do-hs-students-need-to-know-now</link>
+<description>heybiff writes: During summer months I deliver brief tech workshops to high school students as part of an enrichment program. Almost all of the students are average students pulled from non-magnet comprehensive high schools throughout our city. Make no mistake &amp;mdash; these are not the students who have a love of technology and coding; many were coerced by excited parents or guidance counselors. After doing this for almost 10 years, I have found students have become considerably more comfortable with technology, and confident in their use, especially with smartphones and tablets being ubiquitous. Unfortunately, I also see a lot of basic knowledge and tech skills all but nonexistent. Moreover, students seem unaware that the tech they use daily even has any usefulness for academic activities. So what I put to you fellow Slashdotters is: What do students today realistically have to know to be successful in school? Which tech skills are still important and necessary, and which are gone the way of the typewriter? What misconceptions or outright lies have become so ingrained in young people's use of technology that they need to be addressed? Finally, the program puts laptops in students' hands, to give them a kickstart in being successful; what skills do they need to get the most out of the new hardware they were just given?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+What+Tech+Skills+Do+HS+Students+Need+To+Know+Now%3F%3A+http%3A%2F%2Fbit.ly%2F1Kidwrt"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fask.slashdot.org%2Fstory%2F15%2F05%2F19%2F1455225%2Fask-slashdot-what-tech-skills-do-hs-students-need-to-know-now%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://ask.slashdot.org/story/15/05/19/1455225/ask-slashdot-what-tech-skills-do-hs-students-need-to-know-now?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://ask.slashdot.org/story/15/05/19/1455225/ask-slashdot-what-tech-skills-do-hs-students-need-to-know-now?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7436683&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/BFAZNB2A3U8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-19T17:43:00+00:00</dc:date>
+<dc:subject>education</dc:subject>
+<slash:department>or-at-least-very-soon</slash:department>
+<slash:section>askslashdot</slash:section>
+<slash:comments>217</slash:comments>
+<slash:hit_parade>217,215,154,137,26,12,7</slash:hit_parade>
+<feedburner:origLink>http://ask.slashdot.org/story/15/05/19/1455225/ask-slashdot-what-tech-skills-do-hs-students-need-to-know-now?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/05/19/1631227/yubikey-neo-teardown-and-durability-review?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Yubikey Neo Teardown and Durability Review</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/07gx4B1h6y8/yubikey-neo-teardown-and-durability-review</link>
+<description>An anonymous reader writes: Folks at HexView (disclaimer: I contract for the company) took apart Yubikey Neo and found out that, while the key uses solid hardware to ensure secure identity management, its physical anti-tamper measures and durability could be improved. The tear-down analysis is short, but to the point, and offers some very nice close-ups of the internals. One example of the design shortcomings they've identified: Contrary to Yubico's claims, Yubikey appears to be quite destructable. Do not push on it when you touch the sensor while the key is plugged in to a USB port. The point where it bends the most happens to be the point where USB vias are located and through which NFC antenna loop goes. To make things worse, the injection molding hole right next to the connector makes this area even more susceptible to bending.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Yubikey+Neo+Teardown+and+Durability+Review%3A+http%3A%2F%2Fbit.ly%2F1GmH2Kg"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F05%2F19%2F1631227%2Fyubikey-neo-teardown-and-durability-review%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/05/19/1631227/yubikey-neo-teardown-and-durability-review?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/05/19/1631227/yubikey-neo-teardown-and-durability-review?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7436999&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/07gx4B1h6y8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-19T16:34:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>do-not-place-in-any-mailbox</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>73</slash:comments>
+<slash:hit_parade>73,71,58,47,19,8,7</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/05/19/1631227/yubikey-neo-teardown-and-durability-review?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/05/19/1553203/amd-details-high-bandwidth-memory-hbm-dram-pushes-over-100gbs-per-stack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>AMD Details High Bandwidth Memory (HBM) DRAM, Pushes Over 100GB/s Per Stack</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/wJ7Tyul-w7w/amd-details-high-bandwidth-memory-hbm-dram-pushes-over-100gbs-per-stack</link>
+<description>MojoKid writes: Recently, a few details of AMD's next-generation Radeon 300-series graphics cards have trickled out. Today, AMD has publicly disclosed new info regarding their High Bandwidth Memory (HBM) technology that will be used on some Radeon 300-series and APU products. Currently, a relatively large number of GDDR5 chips are necessary to offer sufficient capacity and bandwidth for modern GPUs, which means significant PCB real estate is consumed. On-chip integration is not ideal for DRAM because it is not size or cost effective with a logic-optimized GPU or CPU manufacturing process. HBM, however, brings the DRAM as close to possible to the logic die (GPU) as possible. AMD partnered with Hynix and a number of companies to help define the HBM specification and design a new type of memory chip with low power consumption and an ultra-wide bus width, which was eventually adopted by JEDEC 2013. They also develop a DRAM interconnect called an "interposer," along with ASE, Amkor, and UMC. The interposer allows DRAM to be brought into close proximity with the GPU and simplifies communication and clocking. HBM DRAM chips are stacked vertically, and "through-silicon vias" (TSVs) and "bumps" are used to connect one DRAM chip to the next, and then to a logic interface die, and ultimately the interposer. The end result is a single package on which the GPU/SoC and High Bandwidth Memory both reside. 1GB of GDDR5 memory (four 256MB chips), requires roughly 672mm2. Because HBM is vertically stacked, that same 1GB requires only about 35mm2. The bus width on an HBM chip is 1024-bits wide, versus 32-bits on a GDDR5 chip. As a result, the High Bandwidth Memory interface can be clocked much lower but still offer more than 100GB/s for HBM versus 25GB/s with GDDR5. HBM also requires significantly less voltage, which equates to lower power consumption.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=AMD+Details+High+Bandwidth+Memory+(HBM)+DRAM%2C+Pushes+Over+100GB%2Fs+Per+Stack%3A+http%3A%2F%2Fbit.ly%2F1R0tVBH"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F05%2F19%2F1553203%2Famd-details-high-bandwidth-memory-hbm-dram-pushes-over-100gbs-per-stack%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/05/19/1553203/amd-details-high-bandwidth-memory-hbm-dram-pushes-over-100gbs-per-stack?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/05/19/1553203/amd-details-high-bandwidth-memory-hbm-dram-pushes-over-100gbs-per-stack?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7436871&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/wJ7Tyul-w7w" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-19T15:52:00+00:00</dc:date>
+<dc:subject>amd</dc:subject>
+<slash:department>lower-power-higher-interest</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>62</slash:comments>
+<slash:hit_parade>62,62,44,30,11,4,2</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/05/19/1553203/amd-details-high-bandwidth-memory-hbm-dram-pushes-over-100gbs-per-stack?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/19/1452251/microwave-comms-betwen-population-centers-could-be-key-to-easing-internet-bottlenecks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microwave Comms Betwen Population Centers Could Be Key To Easing Internet Bottlenecks</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/poG8bANeb7U/microwave-comms-betwen-population-centers-could-be-key-to-easing-internet-bottlenecks</link>
+<description>itwbennett writes: Researchers from the University of Illinois at Urbana-Champaign and Duke University recently looked at the main causes of Internet latency and what it would take to achieve speed-of-light performance. The first part of the paper, titled Towards a Speed of Light Internet, is devoted to finding out where the slowdowns are coming from. They found that the bulk of the delay comes from the latency of the underlying infrastructure, which works in a multiplicative way by affecting each step in the request. The second part of the paper proposes what turns out to be a relatively cheap and potentially doable solution to bring Internet speeds close to the speed of light for the vast majority of us. The authors propose creating a network that would connect major population centers using microwave networks.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microwave+Comms+Betwen+Population+Centers+Could+Be+Key+To+Easing+Internet+Bottlenecks%3A+http%3A%2F%2Fbit.ly%2F1S7aloV"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F19%2F1452251%2Fmicrowave-comms-betwen-population-centers-could-be-key-to-easing-internet-bottlenecks%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/19/1452251/microwave-comms-betwen-population-centers-could-be-key-to-easing-internet-bottlenecks?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/19/1452251/microwave-comms-betwen-population-centers-could-be-key-to-easing-internet-bottlenecks?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7436673&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/poG8bANeb7U" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-19T15:03:00+00:00</dc:date>
+<dc:subject>networking</dc:subject>
+<slash:department>you'll-get-cancer-and-be-well-done</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>165</slash:comments>
+<slash:hit_parade>165,162,121,106,37,15,6</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/19/1452251/microwave-comms-betwen-population-centers-could-be-key-to-easing-internet-bottlenecks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/05/19/1422241/trojanized-info-stealing-putty-version-lurking-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Trojanized, Info-Stealing PuTTY Version Lurking Online</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/adn7vMiy2yo/trojanized-info-stealing-putty-version-lurking-online</link>
+<description>One of the best first steps in setting up a Windows machine is to install PuTTY on it, so you have a highly evolved secure shell at your command. An anonymous reader writes, though, with a note of caution if you're installing PuTTY from a source other than the project's own official page. A malicious version with information-stealing abilities has been found in the wild. According to the article:
+Compiled from source, this malicious version is apparently capable of stealing the credentials needed to connect to those servers. "Data that is sent through SSH connections may be sensitive and is often considered a gold mine for a malicious actor. Attackers can ultimately use this sensitive information to get the highest level of privileges on a computer or server, (known as 'root' access) which can give them complete control over the targeted system," the researchers explained.
+
+The Symantec report linked above also shows that (at least for this iteration) the malware version is easy to spot, by hitting the "About" information for the app.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Trojanized%2C+Info-Stealing+PuTTY+Version+Lurking+Online%3A+http%3A%2F%2Fbit.ly%2F1HpN9fA"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F05%2F19%2F1422241%2Ftrojanized-info-stealing-putty-version-lurking-online%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/05/19/1422241/trojanized-info-stealing-putty-version-lurking-online?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/05/19/1422241/trojanized-info-stealing-putty-version-lurking-online?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7436587&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/adn7vMiy2yo" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-19T14:22:00+00:00</dc:date>
+<dc:subject>encryption</dc:subject>
+<slash:department>at-your-command-prompt</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>178</slash:comments>
+<slash:hit_parade>178,174,120,107,48,26,14</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/05/19/1422241/trojanized-info-stealing-putty-version-lurking-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://politics.slashdot.org/story/15/05/19/1333230/battle-to-regulate-ridesharing-moves-through-states?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Battle To Regulate Ridesharing Moves Through States</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/RUSmXCnZseM/battle-to-regulate-ridesharing-moves-through-states</link>
+<description>New submitter jeffengel writes: The push to regulate services like Uber and Lyft has spread through state legislatures nationwide. At least 15 states have passed ridesharing laws in 2015, joining Colorado, California, and Illinois from last year. More could follow, with bills pending in Massachusetts, Michigan, North Carolina, and others. All this activity has led to new clashes with companies, city leaders, and consumers. Ridesharing bills have stalled or been killed off in Texas, Florida, New Mexico, and Mississippi. Meanwhile, Uber has exited Kansas and is threatening to leave New Jersey and Oregon, while Lyft has ceased operations in Houston, Columbus, and Tacoma. How this plays out could affect the companies' expansion plans, as well as the future of transportation systems worldwide.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Battle+To+Regulate+Ridesharing+Moves+Through+States%3A+http%3A%2F%2Fbit.ly%2F1cMNRJb"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F15%2F05%2F19%2F1333230%2Fbattle-to-regulate-ridesharing-moves-through-states%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://politics.slashdot.org/story/15/05/19/1333230/battle-to-regulate-ridesharing-moves-through-states?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://politics.slashdot.org/story/15/05/19/1333230/battle-to-regulate-ridesharing-moves-through-states?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7436447&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/RUSmXCnZseM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-19T13:35:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>when-monopolists-attack</slash:department>
+<slash:section>politics</slash:section>
+<slash:comments>237</slash:comments>
+<slash:hit_parade>237,234,178,160,40,21,9</slash:hit_parade>
+<feedburner:origLink>http://politics.slashdot.org/story/15/05/19/1333230/battle-to-regulate-ridesharing-moves-through-states?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/05/19/1243255/swedish-court-orders-seizure-of-pirate-bay-domains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Swedish Court Orders Seizure of Pirate Bay Domains </title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Hak0-QG7D-Q/swedish-court-orders-seizure-of-pirate-bay-domains</link>
+<description>The Pirate Bay will probably never be the darling of any government; we've seen various Pirate Bay domains cracked down on, and the arrests of site founders. An anonymous reader writes now with the news reported this morning by TorrentFreak that: the Stockholm District Court has ordered two key domains owned by The Pirate Bay to be seized. While the ruling means that the site will lose its famous ThePirateBay.se domain, don't expect the site to simply disappear. TPB informs TorrentFreak that they have plenty more domains left in store.
+
+From the point of view of the down-crackers, It's a hard problem, particularly when it's easy for people to spin up their own instances of the site.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Swedish+Court+Orders+Seizure+of+Pirate+Bay+Domains+%3A+http%3A%2F%2Fbit.ly%2F1JwgxDc"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F19%2F1243255%2Fswedish-court-orders-seizure-of-pirate-bay-domains%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/19/1243255/swedish-court-orders-seizure-of-pirate-bay-domains?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/19/1243255/swedish-court-orders-seizure-of-pirate-bay-domains?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7436221&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Hak0-QG7D-Q" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-19T12:56:00+00:00</dc:date>
+<dc:subject>crime</dc:subject>
+<slash:department>grand-mal</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>54</slash:comments>
+<slash:hit_parade>54,53,39,34,10,6,4</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/19/1243255/swedish-court-orders-seizure-of-pirate-bay-domains?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://politics.slashdot.org/story/15/05/19/0318259/the-demographic-future-of-americas-political-parties?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Demographic Future of America's Political Parties</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/qJKCLUtxjT0/the-demographic-future-of-americas-political-parties</link>
+<description>HughPickens.com writes: Daniel McGraw writes that based on their demographic characteristics the Democratic and Republican parties face two very different futures. There's been much written about how millennials are becoming a reliable voting bloc for Democrats, but there's been much less attention paid to one of the biggest get-out-the-vote challenges for the Republican Party heading into the next presidential election: The Republican Party voter is old&amp;mdash;and getting older and far more Republicans than Democrats have died since the 2012 elections. By combining presidential election exit polls with mortality rates per age group from the U.S. Census Bureau, McGraw calculated that, of the 61 million who voted for Mitt Romney in 2012, about 2.75 million will be dead by the 2016 election. About 2.3 million of President Barack Obama's voters have died too but that leaves a big gap in between, a difference of roughly 453,000 in favor of the Democrats. "I've never seen anyone doing any studies on how many dead people can't vote," laughs William Frey, senior fellow at the Brookings Institution who specializes in demographic studies. "I've seen studies on how many dead people do vote. The old Daley Administration in Chicago was very good at that." 
+
+Frey points out that, since Republicans are getting whiter and older, replacing the voters that leave this earth with young ones is essential for them to be competitive in presidential elections. "Millennials (born 1981 to 1997) now are larger in numbers than baby boomers ([born] 1946 to 1964), and how they vote will make the big difference. And the data says that if Republicans focus on economic issues and stay away from social ones like gay marriage, they can make serious inroads with millennials." Exit polling indicates that millennials have split about 65-35 in favor of the Dems in the past two elections. If that split holds true in 2016, Democrats will have picked up a two million vote advantage among first-time voters. These numbers combined with the voter death data puts Republicans at an almost 2.5 million voter disadvantage going into 2016.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Demographic+Future+of+America's+Political+Parties%3A+http%3A%2F%2Fbit.ly%2F1IO0fEU"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F15%2F05%2F19%2F0318259%2Fthe-demographic-future-of-americas-political-parties%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://politics.slashdot.org/story/15/05/19/0318259/the-demographic-future-of-americas-political-parties?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://politics.slashdot.org/story/15/05/19/0318259/the-demographic-future-of-americas-political-parties?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7433199&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/qJKCLUtxjT0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-05-19T12:14:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>last-of-their-kind</slash:department>
+<slash:section>politics</slash:section>
+<slash:comments>425</slash:comments>
+<slash:hit_parade>425,415,279,243,77,42,24</slash:hit_parade>
+<feedburner:origLink>http://politics.slashdot.org/story/15/05/19/0318259/the-demographic-future-of-americas-political-parties?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/05/19/0317238/microsoft-to-teachers-using-pens-and-paper-not-fair-to-students?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft To Teachers: Using Pens and Paper Not Fair To Students</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/9SVLhJoYUvM/microsoft-to-teachers-using-pens-and-paper-not-fair-to-students</link>
+<description>Freshly Exhumed writes: Pens and paper have no place in the modern classroom, according to Lia De Cicco Remu, director of Partners in Learning at Microsoft Canada. "When was the last time you used a piece of chalk to express yourself?" De Cicco Remu, a former teacher, asked the Georgia Straight by phone from Toronto. "Kids don't express themselves with chalk or in cursive. Kids text." Given the Microsoft Study Finds Technology Hurting Attention Spans story posted to Slashdot in the last few days it would seem that Redmond's Marketing and R&amp;amp;D people are at cross-purposes.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+To+Teachers%3A+Using+Pens+and+Paper+Not+Fair+To+Students%3A+http%3A%2F%2Fbit.ly%2F1PTafgw"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F05%2F19%2F0317238%2Fmicrosoft-to-teachers-using-pens-and-paper-not-fair-to-students%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/05/19/0317238/microsoft-to-teachers-using-pens-and-paper-not-fair-to-students?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/05/19/0317238/microsoft-to-teachers-using-pens-and-paper-not-fair-to-students?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7433193&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/9SVLhJoYUvM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-05-19T11:28:00+00:00</dc:date>
+<dc:subject>education</dc:subject>
+<slash:department>are-books-still-allowed?</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>300</slash:comments>
+<slash:hit_parade>300,297,206,189,39,18,14</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/05/19/0317238/microsoft-to-teachers-using-pens-and-paper-not-fair-to-students?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/19/0225222/european-internet-users-urged-to-protect-themselves-against-facebook-tracking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>European Internet Users Urged To Protect Themselves Against Facebook Tracking</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/t0qAmwZy7EE/european-internet-users-urged-to-protect-themselves-against-facebook-tracking</link>
+<description>An anonymous reader writes: Belgium's Privacy Protection Commission says that Facebook tramples on European privacy laws by tracking people online without their consent and dodges questions from national regulators. They have issued a set of recommendations for both Facebook, website owners and end users. Net-Security reports: "The recommendations are based on the results of an extensive analysis of Facebook's revised policies and terms (rolled out on January 30, 2015) conducted by the inter-university research center EMSOC/SPION, which concluded that the company is acting in violation of European law. According to them Facebook places too much burden on its users to protect their privacy, and then doesn't offer simple tools and settings to do so, and sets up some problematic default settings. They also don't provide adequate information for users to make informed choices."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=European+Internet+Users+Urged+To+Protect+Themselves+Against+Facebook+Tracking%3A+http%3A%2F%2Fbit.ly%2F1EZf96H"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F19%2F0225222%2Feuropean-internet-users-urged-to-protect-themselves-against-facebook-tracking%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/19/0225222/european-internet-users-urged-to-protect-themselves-against-facebook-tracking?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/19/0225222/european-internet-users-urged-to-protect-themselves-against-facebook-tracking?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7433073&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/t0qAmwZy7EE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-05-19T09:31:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>I-unfriend-you</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>129</slash:comments>
+<slash:hit_parade>129,127,68,59,16,7,4</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/19/0225222/european-internet-users-urged-to-protect-themselves-against-facebook-tracking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>

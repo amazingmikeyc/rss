@@ -1,0 +1,13 @@
+body {
+    font-family: arial;
+}
+
+main {
+    margin-left:100px;
+
+}
+
+blockquote {
+    background-color:#cccccc;
+    padding:10px;
+}

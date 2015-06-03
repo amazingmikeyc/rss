@@ -1,0 +1,20 @@
+
+REQUIREMENTS: MySQL; PHP 5.6 with Curl & PDO; Apache
+
+To run you need 
+
+1) create the table Feed in your MySQL database from the following schema dump:
+
+CREATE TABLE `feed` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `uri` text,
+  `timestamp` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=utf8;
+
+2) Copy the files into your web host folder and create a vhost pointing your web
+     root at the "public" folder.
+
+3) Change the db connection strings in the config/db.php file to match your 
+    setup. They are fairly self-explanatory PDO connection info.
+    
