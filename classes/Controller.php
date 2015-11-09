@@ -35,9 +35,9 @@ class Controller implements InjectableInterface {
     public function actionAdd()
     {
         $postVars = $this->container->get('postVars');
-        if (isset($_POST['url'])) {
+        if (isset($postVars['url'])) {
             $repository = $this->getRepository();
-            $repository->addFeed($_POST['url']);
+            $repository->addFeed($postVars['url']);
         }
         $this->forwardTo('/');        
     }
@@ -48,9 +48,9 @@ class Controller implements InjectableInterface {
     public function actionRemove()
     {
         $postVars = $this->container->get('postVars');
-        if (isset($_POST['id'])) {
+        if (isset($postVars['id'])) {
             $repository = $this->getRepository();
-            $repository->removeFeed($_POST['id']);
+            $repository->removeFeed($postVars['id']);
         }
         
         $this->forwardTo('/');
